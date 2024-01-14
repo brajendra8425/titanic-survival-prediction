@@ -1,2 +1,2 @@
 # titanic-survival-prediction
-second TASK OF  INTERNSHIP OF THE CODESOFT
+Titanic survival prediction
